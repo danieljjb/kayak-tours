@@ -156,3 +156,44 @@ hr {
   #children {
     color: orange;
   }
+
+  /* testimonials */
+
+  #testimonials {
+    width: 100%;
+    text-align: center;
+    height: 500px;
+    background-color: #0557a4;
+}
+
+#testimonials div {
+    color: white;
+    width: 256px;
+    height: 300px;
+    padding: 30px 10px 10px 10px;
+    display: inline-block;
+    border: 2px solid white;
+    box-sizing: border-box;
+    vertical-align: top;
+    margin: 25px 10px 25px 10px;
+}
+
+#testimonials h2 {
+    color: white;
+}
+
+#testimonials div h3 {
+    color: gold;
+}
+
+#testimonials div h4 {
+    text-transform: uppercase;
+}
+
+
+
+#testimonials div p {
+    color: white;
+}
+
+
