@@ -86,6 +86,7 @@ p {
 }
 
 #about-us-image {
+    margin-top: 25px;
     width: 50%;
     border-radius: 10%;
 }
