@@ -222,5 +222,9 @@ footer {
     #tours, #testimonials {
         height: 100%;
     }
+
+    #about-us p, #about-us-image {
+        width: 70%;
+    }
     
 }
