@@ -119,6 +119,7 @@ hr {
     width: 100%;
     box-sizing: border-box;
     margin: auto 20px auto 20px; 
+    border: 1px solid black;
 }
 
 .tours-div ul {
