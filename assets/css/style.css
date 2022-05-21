@@ -94,3 +94,12 @@ p {
     margin: 25px auto 25px auto;
     text-align: left;
 }
+
+/* hr */
+
+hr {
+    border-style: none;
+    border-top: 15px dotted #387eaf;
+    opacity: 0.6;
+    margin: 50px 33% 50px 33%;
+} 
