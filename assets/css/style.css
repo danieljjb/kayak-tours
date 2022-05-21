@@ -9,3 +9,38 @@
 body {
     font-family: source sans pro;
 } 
+
+/* menu and logo */
+
+#logo {
+    float: left;
+    font-size: 300%;
+    margin-left: 20px;
+}
+
+#menu {
+    font-size: 125%;   
+    letter-spacing: 2px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+
+}
+
+#menu a {
+    text-decoration: none;
+    color: #0557a4;
+}
+
+#menu a:hover {
+    background-color: #0557a4;
+    border-radius: 3px;
+    color: white;
+}
