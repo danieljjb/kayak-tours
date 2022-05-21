@@ -216,7 +216,7 @@ footer {
     color: #3a3a3a;
 }
 
-/* media query */
+/* media queries */
 
 @media screen and (max-width: 1000px) {
     #tours, #testimonials {
@@ -227,4 +227,10 @@ footer {
         width: 70%;
     }
     
+}
+
+@media screen and (max-width: 450px) {
+    #logo {
+        font-size: 180%;
+    }
 }
