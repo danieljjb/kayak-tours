@@ -38,6 +38,7 @@ p {
 #menu {
     font-size: 125%;   
     letter-spacing: 2px;
+    text-align: center;
 }
 
 #menu, #logo {
