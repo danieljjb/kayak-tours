@@ -10,6 +10,14 @@ body {
     font-family: source sans pro;
 } 
 
+
+/* section headings */
+
+#section-heading {
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+
 /* menu and logo */
 
 #logo {
@@ -59,4 +67,22 @@ body {
     height: 600px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
+}
+
+/* about us */
+
+#about-us {
+    margin: 75px auto 25px auto;
+    text-align: center;
+}
+
+#about-us-image {
+    width: 50%;
+    border-radius: 10%;
+}
+
+#about-us p {
+    width: 60%;
+    margin: 25px auto 25px auto;
+    text-align: left;
 }
