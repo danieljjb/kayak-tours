@@ -194,4 +194,23 @@ hr {
     color: white;
 }
 
+/* footer */
 
+footer {
+    height: 100px
+}
+
+#social-networks {
+    text-align: center;
+}
+
+#social-networks > li {
+    display: inline;
+}
+
+#social-networks i {
+    font-size: 150%;
+    margin: 10px;
+    padding: 10px;
+    color: #3a3a3a;
+}
