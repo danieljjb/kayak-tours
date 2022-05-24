@@ -22,7 +22,7 @@ p {
 }
 /* section headings */
 
-#section-heading {
+.section-heading {
     margin-bottom: 25px;
 }
 
